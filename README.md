@@ -126,7 +126,7 @@ These are the technologies, libraries and tools I am learning and working with.
 <tr>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=numpy" width="50"/>
+<img src="numpy.gif" width="50"/>
 <br>NumPy
 </td>
 
