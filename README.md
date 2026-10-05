@@ -126,7 +126,7 @@ These are the technologies, libraries and tools I am learning and working with.
 <tr>
 
 <td align="center">
-<img src="images.png" width="50"/>
+<img src="numpy.png" width="50"/>
 <br>NumPy
 </td>
 
