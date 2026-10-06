@@ -142,25 +142,6 @@ These are the technologies, libraries and tools I am learning and working with.
 
 A web-based **paper trading and learning platform** designed for students, beginners and new investors.
 
-### ✨ Main Features
-
-* 📈 Paper Trading
-* 🤖 AI Stock Prediction
-* 🧠 Explainable AI
-* 💬 AI Chat Assistant
-* 📰 AI News Summarization
-* 📊 Portfolio Tracking
-* 🔔 Smart Alerts
-* 🎓 Learning Hub
-* 📝 Quizzes
-* 💰 Buy/Sell Simulation
-* 📊 Reports & Analytics
-
-### 💻 Planned Technology
-
-`MongoDB` `Express.js` `React.js` `Node.js`
-
-`Python` `Machine Learning` `Stock API` `News API`
 
 ---
 
@@ -184,71 +165,10 @@ A web-based **paper trading and learning platform** designed for students, begin
 
 ---
 
-# 🐍 Contribution Activity
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Niru2233&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
-
-</div>
-
----
-
-# 📚 What I'm Learning
-
-<div align="center">
-
-|    Technology   |             Focus             |
-| :-------------: | :---------------------------: |
-|    🐍 Python    | Programming & Problem Solving |
-|    📊 Pandas    |       Data Manipulation       |
-|     🔢 NumPy    |      Numerical Computing      |
-|  📈 Matplotlib  |       Data Visualization      |
-| 🤖 Scikit-Learn |        Machine Learning       |
-|  🧠 TensorFlow  |         Deep Learning         |
-|     🌐 HTML     |        Web Development        |
-| 🐙 Git & GitHub |        Version Control        |
-
-</div>
-
----
-
-# 🎯 2026 Goals <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" height="35"/>
-
-```text
-╔══════════════════════════════════════════════╗
-║               MY 2026 MISSION               ║
-╠══════════════════════════════════════════════╣
-║                                              ║
-║  🐍 Master Python                            ║
-║  📊 Become strong in Data Science            ║
-║  🤖 Learn Machine Learning                   ║
-║  🧠 Explore Artificial Intelligence          ║
-║  💻 Build Real-World Projects                ║
-║  📈 Improve Problem Solving                  ║
-║  🌐 Build Better Web Projects                ║
-║  🚀 Create a Strong GitHub Portfolio         ║
-║                                              ║
-╚══════════════════════════════════════════════╝
-```
-
----
-
-# 💭 Developer Mindset
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Think+%F0%9F%A7%A0;Code+%F0%9F%92%BB;Debug+%F0%9F%90%9B;Learn+%F0%9F%93%9A;Build+%F0%9F%9A%80;Repeat+%E2%99%BE%EF%B8%8F"/>
 
 </div>
 
@@ -260,9 +180,7 @@ A web-based **paper trading and learning platform** designed for students, begin
 
 <a href="https://www.linkedin.com/in/niranjan-waman-593876237/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
-</a>
-
-   
+</a>   
 
 <a href="mailto:niranjanwaman@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="55"/>
@@ -271,22 +189,6 @@ A web-based **paper trading and learning platform** designed for students, begin
 </div>
 
 ---
-
-# 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Niru2233&style=for-the-badge&color=00c6ff&label=PROFILE+VISITORS"/>
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-### 🚀 Learn • Build • Improve • Repeat
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:203a43,100:0f2027&height=150&section=footer&animation=twinkling"/>
 
