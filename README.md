@@ -183,8 +183,9 @@ A web-based **paper trading and learning platform** designed for students, begin
 </a>   
 
 <a href="mailto:niranjanwaman@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="55"/>
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="55" alt="Gmail"/>
 </a>
+
 
 </div>
 
