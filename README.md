@@ -18,18 +18,6 @@
 
 🎓 B.E. Computer Engineering Student at **DVVPCOE**
 
-🐍 Currently learning and practicing **Python**
-
-📊 Exploring **Data Science & Data Analytics**
-
-🤖 Interested in **Machine Learning & Artificial Intelligence**
-
-🌐 Learning **HTML & Web Technologies**
-
-🎨 Interested in **UI Designing & Creative Projects**
-
-💻 Building projects to turn ideas into real-world solutions
-
 > *"Consistency beats talent when talent doesn't stay consistent."*
 
 <br clear="right"/>
@@ -38,14 +26,10 @@
 
 # 🔥 Currently Working On <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" height="35"/>
 
-* 🐍 Improving my **Python programming skills**
-* 📊 Learning **Data Science**
-* 🧹 Practicing **Data Cleaning & Data Processing**
-* 🤖 Exploring **Machine Learning**
-* 📈 Learning **Data Visualization**
+*  Improving my **Python programming skills**
+*  Learning **Data Science**
 * 🌐 Practicing **HTML & Web Development**
 * 💡 Building real-world projects
-* 🚀 Growing my GitHub portfolio
 
 ---
 
