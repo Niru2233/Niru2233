@@ -92,7 +92,7 @@ These are the technologies, libraries and tools I am learning and working with.
 <tr>
 
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=python" width="50"/>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/>
 <br>Python
 </td>
 
@@ -151,7 +151,7 @@ These are the technologies, libraries and tools I am learning and working with.
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=matplotlib" width="50"/>
+<img src="icons8-matplotlib-480.png" width="50"/>
 <br>Matplotlib
 </td>
 
