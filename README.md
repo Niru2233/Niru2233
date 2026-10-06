@@ -131,7 +131,7 @@ These are the technologies, libraries and tools I am learning and working with.
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=pandas" width="50"/>
+<img src="Pandas.png" width="50"/>
 <br>Pandas
 </td>
 
