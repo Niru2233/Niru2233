@@ -35,31 +35,9 @@
 
 # 🧠 My Learning Journey
 
-<div align="center">
+<div align="left">
 
-```text
-        ┌───────────────┐
-        │    PYTHON 🐍  │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │ DATA SCIENCE 📊│
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │ MACHINE LEARNING│
-        │      🤖       │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │   AI / ML 🧠  │
-        └───────┬───────┘
-                ↓
-        ┌───────────────┐
-        │ REAL PROJECTS │
-        │      🚀       │
-        └───────────────┘
-```
+<img src="_Learning Journey.png" height="500px">
 
 </div>
 
