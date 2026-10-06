@@ -146,7 +146,7 @@ These are the technologies, libraries and tools I am learning and working with.
 </td>
 
 <td align="center">
-<img src="https://skillicons.dev/icons?i=scipy" width="50"/>
+<img src="logo.svg" width="50"/>
 <br>SciPy
 </td>
 
