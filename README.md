@@ -33,11 +33,34 @@
 
 ---
 
-# 🧠 My Learning Journey
 
-<div align="left">
+<!-- <div align="left">
 
 <img src="_Learning Journey.png" height="500px">
+
+</div> -->
+# 🧠 My Learning Journey
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="500">
+
+<img src="_Learning Journey.png" height="450px">
+
+</td>
+
+<td width="80">
+</td>
+
+<td align="center" width="500">
+
+<img src="Loop Glow GIF by xponentialdesign.gif" height="450px">
+
+</td>
+</tr>
+</table>
 
 </div>
 
