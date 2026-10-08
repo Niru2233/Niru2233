@@ -12,7 +12,7 @@
 
 # 👨‍💻 About Me <img src="https://media.giphy.com/media/5L7a7v0TQB6o4/giphy.gif" height="35"/>
 
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<!-- <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/> -->
 
 ### **Data Science • AI/ML • Web Development • UI Design**
 
@@ -31,14 +31,11 @@
 * 🌐 Practicing **HTML & Web Development**
 * 💡 Building real-world projects
 
----
 
-# 🧠 My Learning Journey
+<!-- <div align="center"> -->
+<!-- <img src="_Learning Journey.png" height="500px"> -->
 
-<div align="center">
-<img src="_Learning Journey.png" height="500px">
-
-</div> 
+<!-- </div>  -->
 
 
 ---
